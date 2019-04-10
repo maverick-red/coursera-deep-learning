@@ -2,3 +2,9 @@ ResNet50.h5
 yolo.h5
 *.mp4
 pretrained-model
+readonly
+__pycache__
+.ipynb_checkpoints
+glove.6B.50d
+*.npy
+raw_data
