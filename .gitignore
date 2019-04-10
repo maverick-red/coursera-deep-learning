@@ -5,6 +5,6 @@ pretrained-model
 readonly
 __pycache__
 .ipynb_checkpoints
-glove.6B.50d
+glove.6B.50d.txt
 *.npy
 raw_data
